@@ -47,7 +47,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=asifshaik48626-cloud&theme=tokyonight)
 
 ---
 
@@ -66,9 +66,9 @@ Brief description of your project.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/[YOUR_USERNAME]
+- GitHub: asifshaik48626-cloud
 - LinkedIn: https://linkedin.com/in/[YOUR_LINKEDIN]
-- Email: your.email@example.com
+- Email: asifshaik48626@gmail.com
 
 ---
 
